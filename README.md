@@ -12,7 +12,8 @@ which not include:
 * Hyperparams and details are not all same as the paper.
 
 #Demo video example
-It's a nice video
+I like this video.
+It's a nice video.
 https://www.youtube.com/shorts/jdg_iEjGzdg
 
 # How to train
