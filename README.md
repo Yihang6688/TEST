@@ -11,7 +11,8 @@ which not include:
 * I only use high resolution to calculate the GAN loss, so the result is little view-inconsistent. 
 * Hyperparams and details are not all same as the paper.
 
-# Demo video example
+#Demo video example
+It's a nice video
 https://www.youtube.com/shorts/jdg_iEjGzdg
 
 # How to train
